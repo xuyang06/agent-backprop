@@ -43,3 +43,7 @@ claude "Use the agent-backprop skill in bootstrap mode for this repo"
 Scripts are tested on synthetic Claude Code / Codex logs (`tests/smoke.sh`). The LLM-driven steps (triage,
 routing, digest) have not yet been run end-to-end on real history. Before the first scheduled run, verify on
 your versions: `--allowedTools` syntax in `run_daily.sh`, `codex exec -` stdin support, and Codex writable roots.
+
+## License
+
+MIT — see [LICENSE](LICENSE).
